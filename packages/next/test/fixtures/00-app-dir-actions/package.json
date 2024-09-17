@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "next": "canary"
+    "next": "https://vercel-packages.vercel.app/next/commits/ae10e794be761a1367128197abf73b8f034dfc41/next"
   },
   "scripts": {
     "build": "next build && cp .next/server/server-reference-manifest.json public/"
